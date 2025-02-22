@@ -1,5 +1,10 @@
 # Rainbow Six Siege Map Trainer
 
+## 🎮 Gameplay Preview
+Here's a quick preview of the game in action:
+
+![Gameplay Demo](public/images/gameplay.gif)
+
 ## 📌 Overview
 Simple tool to learn room names of maps from the FPS game R6
 
