@@ -1,0 +1,14 @@
+[
+    {
+      "name": "Bank",
+      "rooms": 
+        ["CEO Office", "Square", "Front Desk", "Conference Room", "Lounge", "Executive Hallway", "Stocks", "Armory",  
+        "Reception", "Lobby", "ATMs", "Loan Office", "Open Area", "Admin", "Archives", "Tellers Office", "Staff Room", "Electrical Room", "Printer Room",
+        "Vault", "Vault Entrence", "Vault Lobby", "Lockers", "Gold Vault", "CCTV Room", "Main Stairs", "Server"]
+    },
+    {
+      "name": "Oregon",
+      "rooms": ["Dorms", "Basement", "Kitchen", "Tower"]
+    }
+  ]
+  
